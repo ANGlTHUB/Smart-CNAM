@@ -1,4 +1,4 @@
-# [Flask Admin Boilerplate + SB Admin 2](https://flask-admin-boilerplate.herokuapp.com/)
+# [SMART CNAM]
 
 ![](screenshot/screenshot.png)
 
