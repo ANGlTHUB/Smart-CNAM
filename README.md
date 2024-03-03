@@ -1,4 +1,4 @@
-# [SMART CNAM]
+# SMART CNAM
 
 ![](screenshot/screenshot.png)
 
