@@ -1,6 +1,5 @@
 # SMART CNAM
 
-![](screenshot/screenshot.png)
 
 This web application is built using the **[Python Flask Framework](https://palletsprojects.com/p/flask/)** and **[SB Admin 2 Theme (Free version)](https://startbootstrap.com/themes/sb-admin-2/)**
 Welcome to Smart CNAM , an old data science project developed for my final year study project 2021. This project aims to predict the number of sick people with chronic diseases in Tunisia. 
