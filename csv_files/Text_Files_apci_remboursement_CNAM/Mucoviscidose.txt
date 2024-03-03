@@ -1,0 +1,16 @@
+Index  LOC_COD  LIB_APCI  REP 
+0 , 2091 , Mucoviscidose , 1
+1 , 2080 , Mucoviscidose , 1
+2 , 6026 , Mucoviscidose , 1
+3 , 5050 , Mucoviscidose , 1
+4 , 5020 , Mucoviscidose , 1
+5 , 6116 , Mucoviscidose , 1
+6 , 4200 , Mucoviscidose , 1
+7 , 4155 , Mucoviscidose , 1
+8 , 2083 , Mucoviscidose , 1
+9 , 2200 , Mucoviscidose , 2
+10 , 2073 , Mucoviscidose , 1
+11 , 4100 , Mucoviscidose , 1
+12 , 2092 , Mucoviscidose , 1
+13 , 8020 , Mucoviscidose , 1
+14 , 2037 , Mucoviscidose , 1
